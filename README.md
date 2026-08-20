@@ -2,6 +2,10 @@
   <img src="./assets/header.svg" alt="Adil Abbas animated terminal header" width="100%" />
 </div>
 
+<div align="center">
+  <img src="./assets/code-portrait-animated.gif" alt="Animated code portrait of Adil Abbas" width="240" />
+</div>
+
 # Hi, I'm Adil 👋
 
 I build practical **AI products** around **RAG, AI agents, voice AI, product analytics, and automation**.
