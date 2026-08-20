@@ -1,0 +1,29 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .bar { fill: #161b22; }
+    .txt { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #c9d1d9; font-size: 18px; }
+    .green { fill: #3fb950; }
+    .blue { fill: #58a6ff; }
+    .muted { fill: #8b949e; }
+    .name { font-size: 30px; font-weight: 700; fill: #f0f6fc; }
+    .cursor { animation: blink 1s steps(1,end) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .line1 { animation: fade1 6s ease-in-out infinite; }
+    .line2 { animation: fade2 6s ease-in-out infinite; }
+    .line3 { animation: fade3 6s ease-in-out infinite; }
+    @keyframes fade1 { 0%,8% {opacity:0} 15%,100% {opacity:1} }
+    @keyframes fade2 { 0%,30% {opacity:0} 40%,100% {opacity:1} }
+    @keyframes fade3 { 0%,55% {opacity:0} 65%,100% {opacity:1} }
+  </style>
+  <rect class="bg" x="1" y="1" width="898" height="298" rx="16" stroke="#30363d"/>
+  <rect class="bar" x="1" y="1" width="898" height="46" rx="16"/>
+  <circle cx="25" cy="24" r="7" fill="#ff5f56"/><circle cx="48" cy="24" r="7" fill="#ffbd2e"/><circle cx="71" cy="24" r="7" fill="#27c93f"/>
+  <text x="105" y="30" class="txt muted">adil@github: ~</text>
+
+  <text x="38" y="88" class="txt"><tspan class="green">adil@github</tspan><tspan class="muted">:</tspan><tspan class="blue">~</tspan><tspan>$ whoami</tspan></text>
+  <text x="38" y="132" class="name line1">Adil Abbas</text>
+  <text x="38" y="168" class="txt line2">AI Product Builder • RAG • AI Agents • Voice AI</text>
+  <text x="38" y="204" class="txt muted line3">Turning real user problems into useful AI products.</text>
+  <text x="38" y="254" class="txt"><tspan class="green">adil@github</tspan><tspan class="muted">:</tspan><tspan class="blue">~</tspan><tspan>$ build --ship --learn </tspan><tspan class="cursor">█</tspan></text>
+</svg>
