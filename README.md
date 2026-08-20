@@ -27,6 +27,9 @@ A RAG-based knowledge-transfer assistant designed to reduce information loss dur
 ### 📞 [JobRadar Voice](https://github.com/sayedadil122/jobradar-voice)
 A voice AI agent that calls nearby businesses to discover unposted jobs and converts conversations into structured hiring data.
 
+### 🩺 [Aftercare AI](https://github.com/sayedadil122/aftercare-ai)
+An AI product focused on improving post-care workflows, follow-up experiences, and continuity after treatment.
+
 ### 🔎 [SignalPilot](https://github.com/sayedadil122/SignalPilot)
 Turns scattered customer feedback into themes, product opportunities, competitor gaps, and actionable insights.
 
@@ -40,7 +43,6 @@ An AI shopping assistant for researching, comparing, and making better purchase 
 <summary><b>More Builds</b></summary>
 <br>
 
-- 🩺 [Aftercare AI](https://github.com/sayedadil122/aftercare-ai) — AI concept for post-care workflows and follow-up experiences.
 - 🔍 [SourceLens](https://github.com/sayedadil122/SourceLens) — experiment around working with information and sources more effectively.
 - 💇 [Salon App](https://github.com/sayedadil122/Salon-App) — customer, staff, service, billing, CRM, and salon operations.
 - 🍽️ [SnapCalories](https://github.com/sayedadil122/SnapCalories) — food and calorie tracking product experiment.
